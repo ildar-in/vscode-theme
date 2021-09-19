@@ -1,0 +1,21 @@
+{
+    "name": "ildarin",
+    "displayName": "ildarin",
+    "description": "For coding purposes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ildarin-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ildarin-theme-color-theme.json"
+            }
+        ]
+    }
+}
