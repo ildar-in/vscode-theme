@@ -2,7 +2,7 @@
     "name": "ildarin-theme-vscode",
     "displayName": "ildarin theme vscode",
     "repository": {"url": "https://github.com/ildar-in/vscode-theme"},
-    "publisher": "email0157",
+    "publisher": "ildarin",
     "description": "For coding purposes",
     "version": "0.0.1",
     "engines": {
