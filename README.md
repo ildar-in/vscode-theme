@@ -10,4 +10,4 @@ CTRL+SHIFT+X
 ...  
 Install from VSIX
 ```
-###### by ildarin
+###### ildarin
